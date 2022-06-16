@@ -1,1 +1,1 @@
-
+snowflake-connector-python==x.x.x
